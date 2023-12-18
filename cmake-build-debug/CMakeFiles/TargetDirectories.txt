@@ -1,0 +1,3 @@
+C:/Users/ACER/CLionProjects/untitled2/Librer-a-est-ndar-de-C/cmake-build-debug/CMakeFiles/Librer_a_est_ndar_de_C.dir
+C:/Users/ACER/CLionProjects/untitled2/Librer-a-est-ndar-de-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ACER/CLionProjects/untitled2/Librer-a-est-ndar-de-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
